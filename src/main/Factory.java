@@ -45,7 +45,6 @@ class Factory implements ThreadFactory {
         Thread thread;
         Factory factory = new Factory();
         System.out.printf("Starting the Threads\n\n");
-        factory.daemon.ss();
 
         // Get daemons list
 

@@ -13,8 +13,4 @@ public class Daemon extends AbstractTask {
     public void init() {
         System.out.println("FROM DAEMON " + this.getName());
     }
-
-   public static void ss(){
-       System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSss");
-    }
 }
